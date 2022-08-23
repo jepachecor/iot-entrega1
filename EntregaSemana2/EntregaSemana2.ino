@@ -14,7 +14,7 @@ DHT dht(dht_dpin, DHTTYPE);
 //Nombre de la red Wifi
 const char ssid[] = "JP 2.4G";
 //Contraseña de la red Wifi
-const char pass[] = "qwertyuio1234";
+const char pass[] = "####";
 
 //Usuario uniandes sin @uniandes.edu.co
 #define HOSTNAME "je.pacheco"
